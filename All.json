@@ -10,7 +10,11 @@
 {"key":"csp_trj","name": "🛫┃唐人街┃墙外","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"飞马影视","name":"🛫┃🐎飞马┃墙外","type":1,"searchable":1,"quickSearch":1, "api":"http://rise.eu.org/api.php/provide/vod/from/if101"},
 {"key": "csp_If101","name": "🛫┃If10┃墙外","type": 3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_biubiu_小宝影院","name":"🥒小宝影院XB(墙外)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/小宝影院.json"},
+{"key":"csp_Tkys"          ,"name":"🐞天空影视(墙外)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Xiaoh","name": "🛫┃小宝墙外┃🦁","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1}],
+
 
 //Jar
 
