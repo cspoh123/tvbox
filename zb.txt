@@ -1,27 +1,5 @@
 🛰欣赏频道,#genre#
-爱尔达体育3台A,http://135.148.104.228:19806/bed0a4b629d149bc90aee0522c633b43
-愛爾達體育3台B,p2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
-爱尔达体育3台C,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
-爱尔达体育3台D,mitv://generationnexxxt.com:19806/6a94fcef07d64f50a1edf2837f398cd4
-爱尔达体育3台E,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
-愛爾達體育3台F,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
-愛爾達體育3台G,http://nscreenn-chtmod.cdn.hinet.net/live/ELTA_Sport_plus/04.m3u8
-愛爾達亞運3台H,http://61.224.69.212:9088/udp/230.1.2.234:11111
-愛爾達亞運3台I,http://61.224.69.212:9088/udp/230.1.2.87:11111
-愛爾達體育3台J,http://61.224.69.212:9088/udp/224.1.4.193:11111
-愛爾達體育3台K,http://61.224.69.212:9088/udp/230.1.2.91:11111
-愛爾達體育3台L,tvbus://5vvVp9p6pHnRoVko5KUH2jt1P3rAUzQs7a1px4auhe5DZCkMbG79vqu8LJH2t
-愛爾達體育3台M,p2p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb.ts
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-ASTRO SUPERSPORT 4K,http://extraott.com:80/live/7921751389/6097373662/7841.m3u8
 抖音姐姐热舞,https://sxtv.cloudns.org/douyu/11531165
-粤语戏曲轮播,p3p://173.208.176.178:19806/63108bd0000e4a9cdb92aa6820e833d5
-粤语戏曲轮播,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
-粤语长片轮播,p3p://173.208.176.178:19806/653e4b8d00001a450c8a973c06325101
-粤语长片轮播,P2p://generationnexxxt.com:19806/3d6644cc478648c2952a8c69cb9fccf5
-粤剧白蛇传情,http://159.75.85.63:35455/huya/19743437
-粤剧白蛇传情,http://cfss.cc/cdn/hy/19743437.m3u8
-国语译制电影,https://sxtv.cloudns.org/douyu/2436390
 第一滴血全集,https://sxtv.cloudns.org/yy/1354932355
 敢死队全轮播,https://sxtv.cloudns.org/yy/1382735573
 速度与激情集,https://sxtv.cloudns.org/yy/1382736911
