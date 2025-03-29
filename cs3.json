@@ -1,5 +1,5 @@
 {
-    "spider": "./apig/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
+    "spider": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -332,7 +332,7 @@
         },
 	{ "key": "泥视频i", "name": "泥视频 I | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./XBPQ/%E6%B3%A5%E8%A7%86%E9%A2%91.json" },
 	{ "key": "GimyTV", "name": "剧迷 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./XBPQ/gimyTV.json" },
-	{ "key": "cnflix", "name": "CNFLIX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/apig/cnflix.json" },
+	{ "key": "cnflix", "name": "CNFLIX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/cnflix.json" },
 	{ "key": "哈哈影视", "name": "哈哈 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./XBPQ/哈哈影视.json" },
 	{ "key": "香蕉影视", "name": "香蕉 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./XBPQ/香蕉影视.json" }, 
 	{ "key": "纽约影视", "name": "纽约 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./XBPQ/纽约影视.json" },
