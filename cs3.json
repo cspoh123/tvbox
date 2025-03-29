@@ -2,7 +2,7 @@
     "spider": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
-{"key":"豆瓣","name":"豆瓣｜-傅资翔 (CSPOH)","type":3,"api":"csp_Douban","searchable":0}
+{"key":"豆瓣","name":"豆瓣｜-傅资翔 (CSPOH)","type":3,"api":"csp_Douban","searchable":0},
 {"key":"机器人2","name":"机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com","jar":"https://github.com/heroaku/yg/raw/refs/heads/main/pg/lib/o.jar"}
 {"key":"cnflix","name":"CNFLIX | 影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"ext":"https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/cnflix.json"},
 {"key":"哈哈影视","name":"哈哈 | 影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/哈哈影视.json"},
