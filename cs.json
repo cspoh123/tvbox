@@ -1,4 +1,4 @@
-{"spider":"./bhapp.jar","wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","logo":"https://img.fy6b.com/2024/07/15/161bacbec4079.png","warningText":"傅资翔 (CSPOH)｜自用-取自（宝盒APP）",
+{"wallpaper":"","logo":"https://raw.githubusercontent.com/cspoh123/tvbox/main/tvboxLogo.png","warningText":"傅资翔 (CSPOH)｜自用-取自（宝盒APP）",
 "lives": [
 {"name":"直播②","type":0,"playerType":1,"url":"./zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
@@ -9,6 +9,5 @@
 {"key":"csp_xml_无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"非凡资源","name":"非凡｜采集（首页）","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["韩国剧","动作片","科幻片","恐怖片","伦理片","爱情片","剧情片","喜剧片","战争片","海外剧","国产剧","欧美剧","香港剧","台湾剧","大陆综艺","港台综艺","日韩综艺"]},
 {"key":"csp_xml_卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com","jar":"./custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"},
-{"key": "cc","name": "2傅资翔 (CSPOH)｜自用-取自（宝盒APP）","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0}]
+{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com","jar":"./custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b"}]
 }
