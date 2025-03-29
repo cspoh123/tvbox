@@ -1,4 +1,4 @@
-{"spider": "./ok/8JbvxsFR.png;md5;a2cb74b5a9565c1a421b45620eeb4d36","wallpaper":"","logo":"https://raw.githubusercontent.com/cspoh123/tvbox/main/tvboxLogo.png","warningText":"傅资翔 (CSPOH)｜自用-取自（宝盒APP）",
+{"spider": "./ok/8JbvxsFR.jar;md5;a2cb74b5a9565c1a421b45620eeb4d36","wallpaper":"","logo":"https://raw.githubusercontent.com/cspoh123/tvbox/main/tvboxLogo.png","warningText":"傅资翔 (CSPOH)｜自用-取自（宝盒APP）",
 "lives": [
 {"name":"直播②","type":0,"playerType":1,"url":"./zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
