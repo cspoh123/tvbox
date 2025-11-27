@@ -1,4 +1,4 @@
-{"spider": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","wallpaper":"","logo":"https://raw.githubusercontent.com/cspoh123/tvbox/main/tvboxLogo.png","warningText":"傅资翔 (CSPOH)｜自用-取自（宝盒APP）",
+{"spider": "https://raw.githubusercontent.com/heroaku/TVboxo/blob/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","wallpaper":"","logo":"https://raw.githubusercontent.com/cspoh123/tvbox/main/tvboxLogo.png","warningText":"傅资翔 (CSPOH)｜自用-取自（宝盒APP）",
 "lives": [
 {"name":"直播②","type":0,"playerType":1,"url":"./zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
