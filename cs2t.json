@@ -1,14 +1,11 @@
-{"spider": "./xiaosa-api/spider.jar","wallpaper":"","logo":"https://raw.githubusercontent.com/cspoh123/tvbox/main/tvboxLogo.png","warningText":"傅资翔 (CSPOH)｜自用-取自（宝盒APP）",
+{"spider": "./xiaosa/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5","wallpaper":"","logo":"https://raw.githubusercontent.com/cspoh123/tvbox/main/tvboxLogo.png","warningText":"傅资翔 (CSPOH)｜自用-取自（宝盒APP）",
 "lives": [
 {"name":"直播②","type":0,"playerType":1,"url":"./zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"豆瓣","name":"🌕┃豆瓣┃ 傅资翔 (CSPOH)-2","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣","name":"🌕┃豆瓣┃ 傅资翔 (CSPOH)-2","type":3,"jar":"./lib/xiaosa/spider.jar","api":"csp_Douban","searchable":0},
 {"key":"csp_Gz360","name":"🍉瓜子┃1080P","type":3,"api":"csp_Gz360Guard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99"},
 {"key":"洽洽影视","name":"洽洽｜APP","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"木耳","name":"🥇黑木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
-{"key":"小苹果","name":"小苹果｜影视","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"小苹果弹幕","name":"小苹果｜弹幕","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"zycj_暴風","name":"🌀暴風┃影视","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?wd=","playUrl":"","categories":["国产剧","国产动漫","港剧","韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","台剧","日剧","海外剧","泰剧","大陆综","艺港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说","体育","足球","篮球","网球","斯诺克","预告片","短剧"],"jar":"https://raw.githubusercontent.com/cspoh123/tvbox/main/buliangshuai/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf"},
 {"key":"极速资源","name":"极速｜采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727690640792/fan.txt;md5;fae44887703772d67cbf11432d50d113"},
 {"key":"量子","name":"🍒量子(直连)（首页）","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["韩国剧","综艺片","动作片","喜剧片","爱情片","科幻片","伦理片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","台湾剧","海外剧","大陆综艺","港台综艺","日韩综艺"]},
